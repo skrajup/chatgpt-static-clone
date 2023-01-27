@@ -1,0 +1,3 @@
+flex-grow: 0; //default value
+flex-shrink: 1; //default value
+
